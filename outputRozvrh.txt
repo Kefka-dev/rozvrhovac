@@ -1,0 +1,197 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="sk" lang="sk">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Rozvrh hodín</title>
+<style type="text/css">
+body	{background-color: #ffffff;color: #000000;font-family: Tahoma, Helvetica,sans-serif;font-size: 14px;}
+h1	{text-align: left;margin-left: 420px;font-size: 16px;}
+table	{width: 960px;text-align: center;font-size: 12px;border-style: solid;border-width: 2px;border-color: #999999 #333333 #333333 #999999; }
+th	{height:3em;text-align: center;width: 64px;background-color:#909090;font-weight:bold; border-style: solid;border-width: 1px;border-color: #000000 #777777 #000000 #777777; }
+td	{height:4em;text-align: center;width: 64px;border-style: solid;border-width: 1px;border-color: #333333 #999999 #999999 #333333; }
+td.prvy_stlpec {width: 64px;background-color:#a8a8a8;font-weight: bold;border-style: solid;border-width: 1px;border-color: #000000 #777777 #000000 #777777; }
+th.prvy_stlpec	{height:3em;text-align: center;width: 64px;background-color:#909090;font-weight:bold; border-style: solid;border-width: 1px;border-color: #000000 #777777 #000000 #777777; }
+</style>
+</head>
+<body>
+<h1>Rozvrh hodín</h1>
+<p>
+Krúžok: <span style="font-weight: bold;">2bc_API/1</span> Obdobie: letny semester 2023/2024
+</p><table border="2">
+<tr>
+<th>Hod<br />Zac</th>
+<th>1<br />7:00</th>
+<th>2<br />8:00</th>
+<th>3<br />9:00</th>
+<th>4<br />10:00</th>
+<th>5<br />11:00</th>
+<th>6<br />12:00</th>
+<th>7<br />13:00</th>
+<th>8<br />14:00</th>
+<th>9<br />15:00</th>
+<th>10<br />16:00</th>
+<th>11<br />17:00</th>
+<th>12<br />18:00</th>
+<th>13<br />19:00</th>
+<th>14<br />20:00</th>
+</tr>
+<tr>
+<td class="prvy_stlpec">Pon</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td colspan="2 " style="background-color: #ececec">LA2<br />cd300</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td rowspan="2" class="prvy_stlpec">Uto</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td colspan="2 " style="background-color: #c5c5c5">UMINT<br />de300</td>
+<td>&nbsp;</td>
+<td colspan="2 " style="background-color: #c5c5c5">umintA<br />d712</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td colspan="2 " style="background-color: #c5c5c5">umintB<br />d713</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td rowspan="5" class="prvy_stlpec">Str</td>
+<td>&nbsp;</td>
+<td colspan="2 " style="background-color: #ececec">DBS<br />cd300</td>
+<td colspan="2 " style="background-color: #ececec">OOP<br />cd300</td>
+<td>&nbsp;</td>
+<td colspan="2 " style="background-color: #ececec">@ZMP<br />de300</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td colspan="2 " style="background-color: #ececec">@ATB<br />bc150</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td colspan="2 " style="background-color: #ececec">@ZFI<br />c801</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td colspan="2 " style="background-color: #ececec">@EMAR<br />bc300</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td colspan="2 " style="background-color: #ececec">@TRHE<br />c313</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td colspan="2 " style="background-color: #ececec">@MK<br />e702</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td class="prvy_stlpec">Stv</td>
+<td>&nbsp;</td>
+<td colspan="2 " style="background-color: #c5c5c5">OOP<br />cd300</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td style="background-color: #c5c5c5">oop<br />cpuc</td>
+<td colspan="2 " style="background-color: #c5c5c5">la2<br />ab150</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td class="prvy_stlpec">Pia</td>
+<td>&nbsp;</td>
+<td colspan="2 " style="background-color: #ececec">DBS<br />cd300</td>
+<td colspan="2 " style="background-color: #ececec">dbs<br />c117b</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</table>
+<p>
+Meno prednášky: VEĽKÉ PÍSMENÁ, Meno cvičenia: malé písmená
+<br />
+Voliteľné prednášky majú pred názvom znak @, ich cvičenia znak #
+</p>
+<p>
+Generované 12. marca 2024 o 10:11:24 z databázy L24_s programom ROZVRHY
+</p>
+</body>
+</html>
